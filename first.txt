@@ -1,5 +1,9 @@
 erqwerqwerqwerqwerqw
+<<<<<<< HEAD
 erqwerqwerqwerqwerdw
+=======
+erqwerqwerqwerqwerqw
+>>>>>>> af59155ee8fc236541f6cc8b945f8b5db019dbd7
 erqwerqwerqwerqwerqw
 erqwerqwerqwerqwerqw
 erqwerqwerqwerqwerqw
